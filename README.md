@@ -6,8 +6,6 @@ El usuario puede ver más detalles clickando en la tarjeta de los vehículos as�
 
 El proyecto ha sido desarrollado con las siguientes herramientas:
 
-- Frontend app:
-
     1. JavaScript
     2. React
     3. HTML5
